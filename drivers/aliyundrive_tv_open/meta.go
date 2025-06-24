@@ -1,4 +1,4 @@
-package aliyundrive_tv_open
+package aliyundrive_TV_open
 
 import (
 	"github.com/kinyokun/OpenList/internal/driver"
