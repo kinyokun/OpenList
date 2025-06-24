@@ -7,9 +7,9 @@ import (
 	stdpath "path"
 	"strings"
 
-	"github.com/OpenListTeam/OpenList/internal/archive/tool"
-	"github.com/OpenListTeam/OpenList/internal/errs"
-	"github.com/OpenListTeam/OpenList/internal/stream"
+	"github.com/kinyokun/OpenList/internal/archive/tool"
+	"github.com/kinyokun/OpenList/internal/errs"
+	"github.com/kinyokun/OpenList/internal/stream"
 	"github.com/saintfish/chardet"
 	"github.com/yeka/zip"
 	"golang.org/x/text/encoding"

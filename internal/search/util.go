@@ -3,14 +3,14 @@ package search
 import (
 	"strings"
 
-	"github.com/OpenListTeam/OpenList/drivers/base"
-	"github.com/OpenListTeam/OpenList/drivers/openlist"
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/internal/driver"
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/internal/op"
-	"github.com/OpenListTeam/OpenList/internal/setting"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/drivers/base"
+	"github.com/kinyokun/OpenList/drivers/openlist"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/driver"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/op"
+	"github.com/kinyokun/OpenList/internal/setting"
+	"github.com/kinyokun/OpenList/pkg/utils"
 	log "github.com/sirupsen/logrus"
 )
 

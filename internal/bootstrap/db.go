@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/OpenListTeam/OpenList/cmd/flags"
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/internal/db"
+	"github.com/kinyokun/OpenList/cmd/flags"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/db"
 	log "github.com/sirupsen/logrus"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/postgres"

@@ -1,9 +1,9 @@
 package v3_24_0
 
 import (
-	"github.com/OpenListTeam/OpenList/internal/db"
-	"github.com/OpenListTeam/OpenList/internal/op"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/internal/db"
+	"github.com/kinyokun/OpenList/internal/op"
+	"github.com/kinyokun/OpenList/pkg/utils"
 )
 
 // HashPwdForOldVersion encode passwords using SHA256

@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/OpenListTeam/OpenList/cmd/flags"
-	"github.com/OpenListTeam/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/cmd/flags"
+	"github.com/kinyokun/OpenList/internal/conf"
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"
 )

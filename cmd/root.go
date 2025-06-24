@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/OpenListTeam/OpenList/cmd/flags"
-	_ "github.com/OpenListTeam/OpenList/drivers"
-	_ "github.com/OpenListTeam/OpenList/internal/archive"
-	_ "github.com/OpenListTeam/OpenList/internal/offline_download"
+	"github.com/kinyokun/OpenList/cmd/flags"
+	_ "github.com/kinyokun/OpenList/drivers"
+	_ "github.com/kinyokun/OpenList/internal/archive"
+	_ "github.com/kinyokun/OpenList/internal/offline_download"
 	"github.com/spf13/cobra"
 )
 

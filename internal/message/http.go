@@ -3,7 +3,7 @@ package message
 import (
 	"time"
 
-	"github.com/OpenListTeam/OpenList/server/common"
+	"github.com/kinyokun/OpenList/server/common"
 	"github.com/gin-gonic/gin"
 	"github.com/pkg/errors"
 )

@@ -1,8 +1,8 @@
 package task
 
 import (
-	"github.com/OpenListTeam/OpenList/pkg/generic_sync"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/pkg/generic_sync"
+	"github.com/kinyokun/OpenList/pkg/utils"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 )

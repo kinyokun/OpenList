@@ -1,12 +1,12 @@
 package qbit
 
 import (
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/internal/errs"
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/internal/offline_download/tool"
-	"github.com/OpenListTeam/OpenList/internal/setting"
-	"github.com/OpenListTeam/OpenList/pkg/qbittorrent"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/errs"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/offline_download/tool"
+	"github.com/kinyokun/OpenList/internal/setting"
+	"github.com/kinyokun/OpenList/pkg/qbittorrent"
 	"github.com/pkg/errors"
 )
 

@@ -2,24 +2,24 @@
   <img width="100px" alt="logo" src="https://raw.githubusercontent.com/OpenListTeam/Logo/main/logo.svg"/></a>
   <p><em>🗂一个支持多存储的文件列表程序，使用 Gin 和 SolidJS，基于 AList 项目 fork 开发</em></p>
 <div>
-  <a href="https://goreportcard.com/report/github.com/OpenListTeam/OpenList/v3">
-    <img src="https://goreportcard.com/badge/github.com/OpenListTeam/OpenList/v3" alt="latest version" />
+  <a href="https://goreportcard.com/report/github.com/kinyokun/OpenList/v3">
+    <img src="https://goreportcard.com/badge/github.com/kinyokun/OpenList/v3" alt="latest version" />
   </a>
-  <a href="https://github.com/OpenListTeam/OpenList/blob/main/LICENSE">
+  <a href="https://github.com/kinyokun/OpenList/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/OpenListTeam/OpenList" alt="License" />
   </a>
-  <a href="https://github.com/OpenListTeam/OpenList/actions?query=workflow%3ABuild">
+  <a href="https://github.com/kinyokun/OpenList/actions?query=workflow%3ABuild">
     <img src="https://img.shields.io/github/actions/workflow/status/OpenListTeam/OpenList/build.yml?branch=main" alt="Build status" />
   </a>
-  <a href="https://github.com/OpenListTeam/OpenList/releases">
+  <a href="https://github.com/kinyokun/OpenList/releases">
     <img src="https://img.shields.io/github/release/OpenListTeam/OpenList" alt="latest version" />
   </a>
 </div>
 <div>
-  <a href="https://github.com/OpenListTeam/OpenList/discussions">
+  <a href="https://github.com/kinyokun/OpenList/discussions">
     <img src="https://img.shields.io/github/discussions/OpenListTeam/OpenList?color=%23ED8936" alt="discussions" />
   </a>
-  <a href="https://github.com/OpenListTeam/OpenList/releases">
+  <a href="https://github.com/kinyokun/OpenList/releases">
     <img src="https://img.shields.io/github/downloads/OpenListTeam/OpenList/total?color=%239F7AEA&logo=github" alt="Downloads" />
   </a>
 </div>
@@ -33,7 +33,7 @@
 >
 > 我们诚挚地感谢原项目 [AlistGo/alist](https://github.com/AlistGo/alist) 的作者 [Xhofe](https://github.com/Xhofe) 以及其他所有贡献者。
 >
-> 本 Fork 尚未稳定, 具体迁移进度可在 [OpenList 迁移工作总结](https://github.com/OpenListTeam/OpenList/issues/6) 中查看。
+> 本 Fork 尚未稳定, 具体迁移进度可在 [OpenList 迁移工作总结](https://github.com/kinyokun/OpenList/issues/6) 中查看。
 
 [English](./README.md) | 中文 | [日本語](./README_ja.md) | [Contributing](./CONTRIBUTING.md) | [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 
@@ -102,13 +102,13 @@ N/A（重建中）
 
 ## 讨论
 
-一般问题请到 [*Discussions*](https://github.com/OpenListTeam/OpenList/discussions) 讨论，***Issues* 仅针对错误报告和功能请求。**
+一般问题请到 [*Discussions*](https://github.com/kinyokun/OpenList/discussions) 讨论，***Issues* 仅针对错误报告和功能请求。**
 
 ## 贡献者
 
 感谢这些开源作者们：
 
-[![Contributors](https://contrib.rocks/image?repo=OpenListTeam/OpenList)](https://github.com/OpenListTeam/OpenList/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=OpenListTeam/OpenList)](https://github.com/kinyokun/OpenList/graphs/contributors)
 
 ## 许可
 
@@ -120,8 +120,8 @@ N/A（重建中）
 - 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
 - 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
 - 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关；
-- 如有侵权，请联系[OpenListTeam](https://github.com/OpenListTeam)，团队会及时处理。
+- 如有侵权，请联系[OpenListTeam](https://github.com/kinyokun)，团队会及时处理。
 
 ---
 
-> [@GitHub](https://github.com/OpenListTeam) · [Telegram 交流群](https://t.me/OpenListTeam) · [Telegram 频道](https://t.me/OpenListOfficial)
+> [@GitHub](https://github.com/kinyokun) · [Telegram 交流群](https://t.me/OpenListTeam) · [Telegram 频道](https://t.me/OpenListOfficial)

@@ -103,13 +103,13 @@ jobs:
           musl-target-format: $os-$musl-$arch
           out-dir: build
           output: openlist-$target$ext
-          musl-base-url: "https://github.com/OpenListTeam/musl-compilers/releases/latest/download/"
+          musl-base-url: "https://github.com/kinyokun/musl-compilers/releases/latest/download/"
           x-flags: |
-            github.com/OpenListTeam/OpenList/internal/conf.BuiltAt=$built_at
-            github.com/OpenListTeam/OpenList/internal/conf.GitAuthor=OpenList
-            github.com/OpenListTeam/OpenList/internal/conf.GitCommit=$git_commit
-            github.com/OpenListTeam/OpenList/internal/conf.Version=$tag
-            github.com/OpenListTeam/OpenList/internal/conf.WebVersion=dev
+            github.com/kinyokun/OpenList/internal/conf.BuiltAt=$built_at
+            github.com/kinyokun/OpenList/internal/conf.GitAuthor=OpenList
+            github.com/kinyokun/OpenList/internal/conf.GitCommit=$git_commit
+            github.com/kinyokun/OpenList/internal/conf.Version=$tag
+            github.com/kinyokun/OpenList/internal/conf.WebVersion=dev
 
       - name: Compress
         run: |

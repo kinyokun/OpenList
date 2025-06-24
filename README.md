@@ -2,24 +2,24 @@
   <img width="100px" alt="logo" src="https://raw.githubusercontent.com/OpenListTeam/Logo/main/logo.svg"/></a>
   <p><em>🗂️A file list program that supports multiple storages, powered by Gin and SolidJS, fork of AList.</em></p>
 <div>
-  <a href="https://goreportcard.com/report/github.com/OpenListTeam/OpenList/v3">
-    <img src="https://goreportcard.com/badge/github.com/OpenListTeam/OpenList/v3" alt="latest version" />
+  <a href="https://goreportcard.com/report/github.com/kinyokun/OpenList/v3">
+    <img src="https://goreportcard.com/badge/github.com/kinyokun/OpenList/v3" alt="latest version" />
   </a>
-  <a href="https://github.com/OpenListTeam/OpenList/blob/main/LICENSE">
+  <a href="https://github.com/kinyokun/OpenList/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/OpenListTeam/OpenList" alt="License" />
   </a>
-  <a href="https://github.com/OpenListTeam/OpenList/actions?query=workflow%3ABuild">
+  <a href="https://github.com/kinyokun/OpenList/actions?query=workflow%3ABuild">
     <img src="https://img.shields.io/github/actions/workflow/status/OpenListTeam/OpenList/build.yml?branch=main" alt="Build status" />
   </a>
-  <a href="https://github.com/OpenListTeam/OpenList/releases">
+  <a href="https://github.com/kinyokun/OpenList/releases">
     <img src="https://img.shields.io/github/release/OpenListTeam/OpenList" alt="latest version" />
   </a>
 </div>
 <div>
-  <a href="https://github.com/OpenListTeam/OpenList/discussions">
+  <a href="https://github.com/kinyokun/OpenList/discussions">
     <img src="https://img.shields.io/github/discussions/OpenListTeam/OpenList?color=%23ED8936" alt="discussions" />
   </a>
-  <a href="https://github.com/OpenListTeam/OpenList/releases">
+  <a href="https://github.com/kinyokun/OpenList/releases">
     <img src="https://img.shields.io/github/downloads/OpenListTeam/OpenList/total?color=%239F7AEA&logo=github" alt="Downloads" />
   </a>
 </div>
@@ -33,7 +33,7 @@
 >
 > We sincerely thank the author [Xhofe](https://github.com/Xhofe) of the original project [AlistGo/alist](https://github.com/AlistGo/alist) and all other contributors.
 >
-> This fork is not yet stable, specific migration progress can be viewed in [OpenList Migration Work Summary](https://github.com/OpenListTeam/OpenList/issues/6).
+> This fork is not yet stable, specific migration progress can be viewed in [OpenList Migration Work Summary](https://github.com/kinyokun/OpenList/issues/6).
 
 English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Contributing](./CONTRIBUTING.md) | [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 
@@ -104,13 +104,13 @@ N/A (to be rebuilt)
 
 ## Discussion
 
-Please refer to [*Discussions*](https://github.com/OpenListTeam/OpenList/discussions) for raising general questions, ***Issues* is for bug reports and feature requests only.**
+Please refer to [*Discussions*](https://github.com/kinyokun/OpenList/discussions) for raising general questions, ***Issues* is for bug reports and feature requests only.**
 
 ## Contributors
 
 Thanks goes to these wonderful people:
 
-[![Contributors](https://contrib.rocks/image?repo=OpenListTeam/OpenList)](https://github.com/OpenListTeam/OpenList/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=OpenListTeam/OpenList)](https://github.com/kinyokun/OpenList/graphs/contributors)
 
 ## License
 
@@ -122,8 +122,8 @@ The `OpenList` is open-source software licensed under the AGPL-3.0 license.
 - This program is implemented by calling the official sdk/interface, without destroying the official interface behavior;
 - This program only does 302 redirect/traffic forwarding, and does not intercept, store, or tamper with any user data;
 - Before using this program, you should understand and bear the corresponding risks, including but not limited to account ban, download speed limit, etc., which is none of this program's business;
-- If there is any infringement, please contact [OpenListTeam](https://github.com/OpenListTeam), and it will be dealt with in time.
+- If there is any infringement, please contact [OpenListTeam](https://github.com/kinyokun), and it will be dealt with in time.
 
 ---
 
-> [@GitHub](https://github.com/OpenListTeam) · [Telegram Group](https://t.me/OpenListTeam) · [Telegram Channel](https://t.me/OpenListOfficial)
+> [@GitHub](https://github.com/kinyokun) · [Telegram Group](https://t.me/OpenListTeam) · [Telegram Channel](https://t.me/OpenListOfficial)

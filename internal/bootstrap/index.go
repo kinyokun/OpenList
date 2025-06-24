@@ -1,7 +1,7 @@
 package bootstrap
 
 import (
-	"github.com/OpenListTeam/OpenList/internal/search"
+	"github.com/kinyokun/OpenList/internal/search"
 	log "github.com/sirupsen/logrus"
 )
 

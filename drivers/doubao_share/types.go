@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/OpenListTeam/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/model"
 )
 
 type BaseResp struct {

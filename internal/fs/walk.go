@@ -5,8 +5,8 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/internal/op"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/op"
 )
 
 // WalkFS traverses filesystem fs starting at name up to depth levels.

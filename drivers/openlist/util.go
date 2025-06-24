@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/OpenListTeam/OpenList/drivers/base"
-	"github.com/OpenListTeam/OpenList/internal/op"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
-	"github.com/OpenListTeam/OpenList/server/common"
+	"github.com/kinyokun/OpenList/drivers/base"
+	"github.com/kinyokun/OpenList/internal/op"
+	"github.com/kinyokun/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/server/common"
 	"github.com/go-resty/resty/v2"
 	log "github.com/sirupsen/logrus"
 )

@@ -3,9 +3,9 @@ package middlewares
 import (
 	"strings"
 
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
-	"github.com/OpenListTeam/OpenList/server/common"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/server/common"
 	"github.com/gin-gonic/gin"
 )
 

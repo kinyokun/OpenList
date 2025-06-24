@@ -1,12 +1,12 @@
 package bootstrap
 
 import (
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/internal/db"
-	"github.com/OpenListTeam/OpenList/internal/fs"
-	"github.com/OpenListTeam/OpenList/internal/offline_download/tool"
-	"github.com/OpenListTeam/OpenList/internal/op"
-	"github.com/OpenListTeam/OpenList/internal/setting"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/db"
+	"github.com/kinyokun/OpenList/internal/fs"
+	"github.com/kinyokun/OpenList/internal/offline_download/tool"
+	"github.com/kinyokun/OpenList/internal/op"
+	"github.com/kinyokun/OpenList/internal/setting"
 	"github.com/xhofe/tache"
 )
 

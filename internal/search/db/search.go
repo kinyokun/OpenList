@@ -3,9 +3,9 @@ package db
 import (
 	"context"
 
-	"github.com/OpenListTeam/OpenList/internal/db"
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/internal/search/searcher"
+	"github.com/kinyokun/OpenList/internal/db"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/search/searcher"
 )
 
 type DB struct{}

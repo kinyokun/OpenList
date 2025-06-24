@@ -5,9 +5,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/OpenListTeam/OpenList/internal/driver"
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/pkg/utils/random"
+	"github.com/kinyokun/OpenList/internal/driver"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/pkg/utils/random"
 )
 
 type Virtual struct {

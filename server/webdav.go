@@ -7,14 +7,14 @@ import (
 	"path"
 	"strings"
 
-	"github.com/OpenListTeam/OpenList/internal/stream"
-	"github.com/OpenListTeam/OpenList/server/middlewares"
+	"github.com/kinyokun/OpenList/internal/stream"
+	"github.com/kinyokun/OpenList/server/middlewares"
 
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/internal/op"
-	"github.com/OpenListTeam/OpenList/internal/setting"
-	"github.com/OpenListTeam/OpenList/server/webdav"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/op"
+	"github.com/kinyokun/OpenList/internal/setting"
+	"github.com/kinyokun/OpenList/server/webdav"
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"
 )

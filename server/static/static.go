@@ -9,10 +9,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/internal/setting"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
-	"github.com/OpenListTeam/OpenList/public"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/setting"
+	"github.com/kinyokun/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/public"
 	"github.com/gin-gonic/gin"
 )
 

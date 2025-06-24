@@ -4,10 +4,10 @@ import (
 	stdpath "path"
 	"strings"
 
-	"github.com/OpenListTeam/OpenList/internal/errs"
+	"github.com/kinyokun/OpenList/internal/errs"
 
-	"github.com/OpenListTeam/OpenList/internal/driver"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/internal/driver"
+	"github.com/kinyokun/OpenList/pkg/utils"
 	log "github.com/sirupsen/logrus"
 )
 

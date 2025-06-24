@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/OpenListTeam/OpenList/internal/errs"
-	"github.com/OpenListTeam/OpenList/internal/fs"
-	"github.com/OpenListTeam/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/errs"
+	"github.com/kinyokun/OpenList/internal/fs"
+	"github.com/kinyokun/OpenList/internal/model"
 	ftpserver "github.com/fclairamb/ftpserverlib"
 	"github.com/spf13/afero"
 )

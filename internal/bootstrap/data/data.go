@@ -1,6 +1,6 @@
 package data
 
-import "github.com/OpenListTeam/OpenList/cmd/flags"
+import "github.com/kinyokun/OpenList/cmd/flags"
 
 func InitData() {
 	initUser()

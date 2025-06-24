@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/internal/search/searcher"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/search/searcher"
+	"github.com/kinyokun/OpenList/pkg/utils"
 	"github.com/google/uuid"
 	"github.com/meilisearch/meilisearch-go"
 )

@@ -1,8 +1,8 @@
 package data
 
 import (
-	"github.com/OpenListTeam/OpenList/internal/db"
-	"github.com/OpenListTeam/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/db"
+	"github.com/kinyokun/OpenList/internal/model"
 )
 
 var initialTaskItems []model.TaskItem

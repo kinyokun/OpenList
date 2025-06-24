@@ -4,13 +4,13 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/internal/op"
-	"github.com/OpenListTeam/OpenList/internal/sign"
-	"github.com/OpenListTeam/OpenList/pkg/utils/random"
-	"github.com/OpenListTeam/OpenList/server/common"
-	"github.com/OpenListTeam/OpenList/server/static"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/op"
+	"github.com/kinyokun/OpenList/internal/sign"
+	"github.com/kinyokun/OpenList/pkg/utils/random"
+	"github.com/kinyokun/OpenList/server/common"
+	"github.com/kinyokun/OpenList/server/static"
 	"github.com/gin-gonic/gin"
 )
 

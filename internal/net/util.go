@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/OpenListTeam/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/pkg/utils"
 
-	"github.com/OpenListTeam/OpenList/pkg/http_range"
+	"github.com/kinyokun/OpenList/pkg/http_range"
 	log "github.com/sirupsen/logrus"
 )
 

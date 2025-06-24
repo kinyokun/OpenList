@@ -5,8 +5,8 @@ package s3
 import (
 	"fmt"
 
-	"github.com/OpenListTeam/OpenList/pkg/utils"
-	"github.com/OpenListTeam/gofakes3"
+	"github.com/kinyokun/OpenList/pkg/utils"
+	"github.com/kinyokun/gofakes3"
 )
 
 // logger output formatted message

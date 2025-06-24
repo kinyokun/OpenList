@@ -1,16 +1,16 @@
 package server
 
 import (
-	"github.com/OpenListTeam/OpenList/cmd/flags"
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/internal/message"
-	"github.com/OpenListTeam/OpenList/internal/sign"
-	"github.com/OpenListTeam/OpenList/internal/stream"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
-	"github.com/OpenListTeam/OpenList/server/common"
-	"github.com/OpenListTeam/OpenList/server/handles"
-	"github.com/OpenListTeam/OpenList/server/middlewares"
-	"github.com/OpenListTeam/OpenList/server/static"
+	"github.com/kinyokun/OpenList/cmd/flags"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/message"
+	"github.com/kinyokun/OpenList/internal/sign"
+	"github.com/kinyokun/OpenList/internal/stream"
+	"github.com/kinyokun/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/server/common"
+	"github.com/kinyokun/OpenList/server/handles"
+	"github.com/kinyokun/OpenList/server/middlewares"
+	"github.com/kinyokun/OpenList/server/static"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 )

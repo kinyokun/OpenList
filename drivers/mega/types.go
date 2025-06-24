@@ -3,9 +3,9 @@ package mega
 import (
 	"time"
 
-	"github.com/OpenListTeam/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/pkg/utils"
 
-	"github.com/OpenListTeam/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/model"
 	"github.com/t3rm1n4l/go-mega"
 )
 

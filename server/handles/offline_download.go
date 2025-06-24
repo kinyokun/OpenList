@@ -1,16 +1,16 @@
 package handles
 
 import (
-	_115 "github.com/OpenListTeam/OpenList/drivers/115"
-	"github.com/OpenListTeam/OpenList/drivers/pikpak"
-	"github.com/OpenListTeam/OpenList/drivers/thunder"
-	"github.com/OpenListTeam/OpenList/drivers/thunder_browser"
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/internal/offline_download/tool"
-	"github.com/OpenListTeam/OpenList/internal/op"
-	"github.com/OpenListTeam/OpenList/internal/task"
-	"github.com/OpenListTeam/OpenList/server/common"
+	_115 "github.com/kinyokun/OpenList/drivers/115"
+	"github.com/kinyokun/OpenList/drivers/pikpak"
+	"github.com/kinyokun/OpenList/drivers/thunder"
+	"github.com/kinyokun/OpenList/drivers/thunder_browser"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/offline_download/tool"
+	"github.com/kinyokun/OpenList/internal/op"
+	"github.com/kinyokun/OpenList/internal/task"
+	"github.com/kinyokun/OpenList/server/common"
 	"github.com/gin-gonic/gin"
 )
 

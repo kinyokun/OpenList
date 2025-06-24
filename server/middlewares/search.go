@@ -1,10 +1,10 @@
 package middlewares
 
 import (
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/internal/errs"
-	"github.com/OpenListTeam/OpenList/internal/setting"
-	"github.com/OpenListTeam/OpenList/server/common"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/errs"
+	"github.com/kinyokun/OpenList/internal/setting"
+	"github.com/kinyokun/OpenList/server/common"
 	"github.com/gin-gonic/gin"
 )
 

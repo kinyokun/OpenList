@@ -3,11 +3,11 @@ package sftp
 import (
 	"os"
 
-	"github.com/OpenListTeam/OpenList/internal/errs"
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
-	"github.com/OpenListTeam/OpenList/server/ftp"
-	"github.com/OpenListTeam/sftpd-openlist"
+	"github.com/kinyokun/OpenList/internal/errs"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/server/ftp"
+	"github.com/kinyokun/sftpd-openlist"
 )
 
 type DriverAdapter struct {

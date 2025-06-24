@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/OpenListTeam/OpenList/drivers/thunder"
-	"github.com/OpenListTeam/OpenList/internal/op"
-	"github.com/OpenListTeam/OpenList/pkg/singleflight"
+	"github.com/kinyokun/OpenList/drivers/thunder"
+	"github.com/kinyokun/OpenList/internal/op"
+	"github.com/kinyokun/OpenList/pkg/singleflight"
 	"github.com/Xhofe/go-cache"
 )
 

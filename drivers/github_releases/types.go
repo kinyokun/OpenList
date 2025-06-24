@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/OpenListTeam/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/pkg/utils"
 	"github.com/go-resty/resty/v2"
 )
 

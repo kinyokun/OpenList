@@ -3,7 +3,7 @@ package quark_open
 import (
 	"time"
 
-	"github.com/OpenListTeam/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/model"
 )
 
 type Resp struct {

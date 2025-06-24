@@ -5,9 +5,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/pkg/http_range"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/pkg/http_range"
+	"github.com/kinyokun/OpenList/pkg/utils"
 	"golang.org/x/time/rate"
 )
 

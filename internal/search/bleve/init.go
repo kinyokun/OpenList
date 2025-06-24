@@ -1,8 +1,8 @@
 package bleve
 
 import (
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/internal/search/searcher"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/search/searcher"
 	"github.com/blevesearch/bleve/v2"
 	log "github.com/sirupsen/logrus"
 )

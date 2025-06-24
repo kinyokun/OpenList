@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/OpenListTeam/OpenList/internal/errs"
+	"github.com/kinyokun/OpenList/internal/errs"
 
-	"github.com/OpenListTeam/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/conf"
 	log "github.com/sirupsen/logrus"
 )
 

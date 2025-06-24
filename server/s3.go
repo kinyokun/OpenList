@@ -5,9 +5,9 @@ import (
 	"path"
 	"strings"
 
-	"github.com/OpenListTeam/OpenList/internal/conf"
-	"github.com/OpenListTeam/OpenList/server/common"
-	"github.com/OpenListTeam/OpenList/server/s3"
+	"github.com/kinyokun/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/server/common"
+	"github.com/kinyokun/OpenList/server/s3"
 	"github.com/gin-gonic/gin"
 )
 

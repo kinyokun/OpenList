@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/OpenListTeam/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/pkg/utils"
 	log "github.com/sirupsen/logrus"
 )
 

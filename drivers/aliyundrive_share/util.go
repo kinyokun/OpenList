@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/OpenListTeam/OpenList/drivers/base"
-	"github.com/OpenListTeam/OpenList/internal/op"
+	"github.com/kinyokun/OpenList/drivers/base"
+	"github.com/kinyokun/OpenList/internal/op"
 	log "github.com/sirupsen/logrus"
 )
 

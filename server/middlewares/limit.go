@@ -3,7 +3,7 @@ package middlewares
 import (
 	"io"
 
-	"github.com/OpenListTeam/OpenList/internal/stream"
+	"github.com/kinyokun/OpenList/internal/stream"
 	"github.com/gin-gonic/gin"
 )
 

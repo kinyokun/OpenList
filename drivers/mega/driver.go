@@ -7,14 +7,14 @@ import (
 	"io"
 	"time"
 
-	"github.com/OpenListTeam/OpenList/pkg/http_range"
+	"github.com/kinyokun/OpenList/pkg/http_range"
 	"github.com/pquerna/otp/totp"
 	"github.com/rclone/rclone/lib/readers"
 
-	"github.com/OpenListTeam/OpenList/internal/driver"
-	"github.com/OpenListTeam/OpenList/internal/errs"
-	"github.com/OpenListTeam/OpenList/internal/model"
-	"github.com/OpenListTeam/OpenList/pkg/utils"
+	"github.com/kinyokun/OpenList/internal/driver"
+	"github.com/kinyokun/OpenList/internal/errs"
+	"github.com/kinyokun/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/pkg/utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/t3rm1n4l/go-mega"
 )

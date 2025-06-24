@@ -3,8 +3,8 @@ package op
 import (
 	"time"
 
-	"github.com/OpenListTeam/OpenList/internal/db"
-	"github.com/OpenListTeam/OpenList/internal/model"
+	"github.com/kinyokun/OpenList/internal/db"
+	"github.com/kinyokun/OpenList/internal/model"
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/ssh"
 )

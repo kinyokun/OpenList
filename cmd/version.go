@@ -8,7 +8,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/OpenListTeam/OpenList/internal/conf"
+	"github.com/kinyokun/OpenList/internal/conf"
 	"github.com/spf13/cobra"
 )
 
