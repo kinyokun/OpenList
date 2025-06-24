@@ -4,8 +4,8 @@ services:
     volumes:
       - '/etc/openlist:/opt/openlist/data'
     ports:
-      - '5244:5244'
       - '5245:5245'
+      - '5246:5246'
     environment:
       - PUID=0
       - PGID=0

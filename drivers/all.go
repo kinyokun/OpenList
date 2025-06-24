@@ -14,6 +14,7 @@ import (
 	_ "github.com/OpenListTeam/OpenList/drivers/alias"
 	_ "github.com/OpenListTeam/OpenList/drivers/aliyundrive"
 	_ "github.com/OpenListTeam/OpenList/drivers/aliyundrive_open"
+	_ "github.com/OpenListTeam/OpenList/drivers/aliyundrive_TV_open"
 	_ "github.com/OpenListTeam/OpenList/drivers/aliyundrive_share"
 	_ "github.com/OpenListTeam/OpenList/drivers/azure_blob"
 	_ "github.com/OpenListTeam/OpenList/drivers/baidu_netdisk"
