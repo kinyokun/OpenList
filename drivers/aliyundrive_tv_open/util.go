@@ -20,7 +20,8 @@ import (
 // do others that not defined in Driver interface
 
 func (d *AliyundriveTVOpen) _refreshToken() (string, string, error) {
-	url := API_URL + "/oauth/access_token"
+	// url := API_URL + "/oauth/access_token"
+	url = d.APIAddress
 	// if d.OauthTokenURL != "" && d.ClientID == "" {
 	// 	url = d.OauthTokenURL
 	// }
