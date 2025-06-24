@@ -21,7 +21,7 @@ import (
 	"github.com/kinyokun/OpenList/internal/stream"
 	"github.com/kinyokun/OpenList/pkg/http_range"
 	"github.com/kinyokun/OpenList/pkg/utils"
-	"github.com/kinyokun/gofakes3"
+	"github.com/OpenListTeam/gofakes3"
 	"github.com/ncw/swift/v2"
 	log "github.com/sirupsen/logrus"
 )

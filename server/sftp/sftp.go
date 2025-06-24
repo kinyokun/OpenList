@@ -7,7 +7,7 @@ import (
 	"github.com/kinyokun/OpenList/internal/model"
 	"github.com/kinyokun/OpenList/pkg/utils"
 	"github.com/kinyokun/OpenList/server/ftp"
-	"github.com/kinyokun/sftpd-openlist"
+	"github.com/OpenListTeam/sftpd-openlist"
 )
 
 type DriverAdapter struct {

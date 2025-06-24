@@ -13,7 +13,7 @@ import (
 	"github.com/kinyokun/OpenList/internal/model"
 	"github.com/kinyokun/OpenList/internal/op"
 	"github.com/kinyokun/OpenList/internal/setting"
-	"github.com/kinyokun/gofakes3"
+	"github.com/OpenListTeam/gofakes3"
 )
 
 type Bucket struct {

@@ -120,8 +120,8 @@ N/A（重建中）
 - 本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
 - 本程序仅做302重定向/流量转发，不拦截、存储、篡改任何用户数据；
 - 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关；
-- 如有侵权，请联系[OpenListTeam](https://github.com/kinyokun)，团队会及时处理。
+- 如有侵权，请联系[OpenListTeam](https://github.com/OpenListTeam)，团队会及时处理。
 
 ---
 
-> [@GitHub](https://github.com/kinyokun) · [Telegram 交流群](https://t.me/OpenListTeam) · [Telegram 频道](https://t.me/OpenListOfficial)
+> [@GitHub](https://github.com/OpenListTeam) · [Telegram 交流群](https://t.me/OpenListTeam) · [Telegram 频道](https://t.me/OpenListOfficial)

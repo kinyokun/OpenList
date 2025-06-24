@@ -12,7 +12,7 @@ import (
 	"github.com/kinyokun/OpenList/pkg/utils"
 	"github.com/kinyokun/OpenList/server/ftp"
 	"github.com/kinyokun/OpenList/server/sftp"
-	"github.com/kinyokun/sftpd-openlist"
+	"github.com/OpenListTeam/sftpd-openlist"
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/ssh"
 )

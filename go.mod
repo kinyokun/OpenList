@@ -5,9 +5,9 @@ go 1.23.4
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.17.0
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.6.0
-	github.com/kinyokun/gofakes3 v0.1.0
-	github.com/kinyokun/sftpd-openlist v1.0.1
-	github.com/kinyokun/times v0.1.0
+	github.com/OpenListTeam/gofakes3 v0.1.0
+	github.com/OpenListTeam/sftpd-openlist v1.0.1
+	github.com/OpenListTeam/times v0.1.0
 	github.com/ProtonMail/go-crypto v1.0.0
 	github.com/SheltonZhu/115driver v1.0.34
 	github.com/Xhofe/go-cache v0.0.0-20240804043513-b1a71927bc21

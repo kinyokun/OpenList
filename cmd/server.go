@@ -19,7 +19,7 @@ import (
 	"github.com/kinyokun/OpenList/internal/fs"
 	"github.com/kinyokun/OpenList/pkg/utils"
 	"github.com/kinyokun/OpenList/server"
-	"github.com/kinyokun/sftpd-openlist"
+	"github.com/OpenListTeam/sftpd-openlist"
 	ftpserver "github.com/fclairamb/ftpserverlib"
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"

@@ -122,8 +122,8 @@ The `OpenList` is open-source software licensed under the AGPL-3.0 license.
 - This program is implemented by calling the official sdk/interface, without destroying the official interface behavior;
 - This program only does 302 redirect/traffic forwarding, and does not intercept, store, or tamper with any user data;
 - Before using this program, you should understand and bear the corresponding risks, including but not limited to account ban, download speed limit, etc., which is none of this program's business;
-- If there is any infringement, please contact [OpenListTeam](https://github.com/kinyokun), and it will be dealt with in time.
+- If there is any infringement, please contact [OpenListTeam](https://github.com/OpenListTeam), and it will be dealt with in time.
 
 ---
 
-> [@GitHub](https://github.com/kinyokun) · [Telegram Group](https://t.me/OpenListTeam) · [Telegram Channel](https://t.me/OpenListOfficial)
+> [@GitHub](https://github.com/OpenListTeam) · [Telegram Group](https://t.me/OpenListTeam) · [Telegram Channel](https://t.me/OpenListOfficial)

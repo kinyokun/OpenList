@@ -103,7 +103,7 @@ jobs:
           musl-target-format: $os-$musl-$arch
           out-dir: build
           output: openlist-$target$ext
-          musl-base-url: "https://github.com/kinyokun/musl-compilers/releases/latest/download/"
+          musl-base-url: "https://github.com/OpenListTeam/musl-compilers/releases/latest/download/"
           x-flags: |
             github.com/kinyokun/OpenList/internal/conf.BuiltAt=$built_at
             github.com/kinyokun/OpenList/internal/conf.GitAuthor=OpenList

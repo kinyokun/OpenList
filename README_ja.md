@@ -121,8 +121,8 @@ N/A （再構築中）
 - このプログラムは、公式インターフェースの動作を破壊することなく、公式 sdk/インターフェースを呼び出すことで実装されています;
 - このプログラムは、302リダイレクト/トラフィック転送のみを行い、いかなるユーザーデータも傍受、保存、改ざんしません;
 - このプログラムを使用する前に、アカウントの禁止、ダウンロード速度の制限など、対応するリスクを理解し、負担する必要があります;
-- 権利侵害がある場合は、[OpenListTeam](https://github.com/kinyokun) までご連絡ください。チームが迅速に対応いたします。
+- 権利侵害がある場合は、[OpenListTeam](https://github.com/OpenListTeam) までご連絡ください。チームが迅速に対応いたします。
 
 ---
 
-> [@GitHub](https://github.com/kinyokun) · [Telegram Group](https://t.me/OpenListTeam) · [Telegram Channel](https://t.me/OpenListOfficial)
+> [@GitHub](https://github.com/OpenListTeam) · [Telegram Group](https://t.me/OpenListTeam) · [Telegram Channel](https://t.me/OpenListOfficial)
