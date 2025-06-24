@@ -21,9 +21,9 @@ import (
 
 func (d *AliyundriveTVOpen) _refreshToken() (string, string, error) {
 	url := API_URL + "/oauth/access_token"
-	if d.OauthTokenURL != "" && d.ClientID == "" {
-		url = d.OauthTokenURL
-	}
+	// if d.OauthTokenURL != "" && d.ClientID == "" {
+	// 	url = d.OauthTokenURL
+	// }
 	//var resp base.TokenResp
 	var e ErrResp
 	res, err := base.RestyClient.R().
